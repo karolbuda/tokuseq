@@ -1,6 +1,6 @@
 # TokuSeq pipeline documentation
 
-The TokuSeq pipeline is inspired by levSeq from the Arnold lab (), but exclusively uses python scripts and packages.
+The TokuSeq pipeline is inspired by levSeq from the Arnold lab (PUT LINK HERE), but exclusively uses python scripts and packages.
 
 This documentation explains the usage of the TokuSeq pipeline for demultiplexing sequencing reads and analyzing amino acid mutations. The pipeline consists of two main scripts:
 
